@@ -1,2 +1,2 @@
 # challenges-code
- Desafios de código feito pelo LeetCode.
+Solving problems from LeetCode using JavaScript programming language.
