@@ -1,12 +1,19 @@
 # Challenges Code
 Solving problems from LeetCode using JavaScript programming language.
 
+- [Add Two Promises](https://github.com/LeonardoMancilha/leetcode/tree/main/addtwoPromises)
+- [Allow One Function Call](https://github.com/LeonardoMancilha/leetcode/tree/main/allow-one-function-call)
+- [Array Filter](https://github.com/LeonardoMancilha/leetcode/tree/main/arrayfilter)
+- [Array Prototype Last](https://github.com/LeonardoMancilha/leetcode/tree/main/arrayprototypelast)
+- [Array Transform](https://github.com/LeonardoMancilha/leetcode/tree/main/arraytransform)
+- [Between](https://github.com/LeonardoMancilha/leetcode/tree/main/between)
+- [Chunk Array](https://github.com/LeonardoMancilha/leetcode/tree/main/chunkArray)
 - [Counter](https://github.com/LeonardoMancilha/leetcode/tree/main/counter)
-- [Sleep](https://github.com/LeonardoMancilha/leetcode/tree/main/sleep)
-- [To Be or Not To Be](https://github.com/LeonardoMancilha/leetcode/tree/main/ToBeorNotTobe)
 - [Counter II](https://github.com/LeonardoMancilha/leetcode/tree/main/counterII)
+- [Find First Index](https://github.com/LeonardoMancilha/leetcode/tree/main/findfirstindex)
 - [Function Composition](https://github.com/LeonardoMancilha/leetcode/tree/main/functioncomposition)
 - [Interval Cancellation](https://github.com/LeonardoMancilha/leetcode/tree/main/intervalcancellation)
+- [Length Last Word](https://github.com/LeonardoMancilha/leetcode/tree/main/lengthlastword)
 - [Missing Numbers](https://github.com/LeonardoMancilha/leetcode/tree/main/missingnumbers)
 - [Object Empty](https://github.com/LeonardoMancilha/leetcode/tree/main/objectempty)
 - [Reduce](https://github.com/LeonardoMancilha/leetcode/tree/main/reduce)
@@ -15,3 +22,5 @@ Solving problems from LeetCode using JavaScript programming language.
 - [Sleep](https://github.com/LeonardoMancilha/leetcode/tree/main/sleep)
 - [Sort By](https://github.com/LeonardoMancilha/leetcode/tree/main/sortby)
 - [Timeout Cancellation](https://github.com/LeonardoMancilha/leetcode/tree/main/timeout%20cancellation)
+- [To Be or Not To Be](https://github.com/LeonardoMancilha/leetcode/tree/main/ToBeorNotTobe)
+- [Valid Parentheses](https://github.com/LeonardoMancilha/leetcode/tree/main/validparentheses)
