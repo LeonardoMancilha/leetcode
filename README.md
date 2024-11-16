@@ -14,6 +14,7 @@ Solving problems from LeetCode using JavaScript programming language.
 - [Function Composition](https://github.com/LeonardoMancilha/leetcode/tree/main/functioncomposition)
 - [Interval Cancellation](https://github.com/LeonardoMancilha/leetcode/tree/main/intervalcancellation)
 - [Length Last Word](https://github.com/LeonardoMancilha/leetcode/tree/main/lengthlastword)
+- [Longest Common Prefix](https://github.com/LeonardoMancilha/leetcode/tree/main/longestcommonprefix)
 - [Missing Numbers](https://github.com/LeonardoMancilha/leetcode/tree/main/missingnumbers)
 - [Object Empty](https://github.com/LeonardoMancilha/leetcode/tree/main/objectempty)
 - [Reduce](https://github.com/LeonardoMancilha/leetcode/tree/main/reduce)
