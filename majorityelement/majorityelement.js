@@ -15,7 +15,7 @@ const majorityElement = function(nums) {
     return occurrences > nums.length / 2 ? candidate : -1;
 };
 
-const nums = [1, 1, 1, 2, 2, 2, 3, 3, 3];
+const nums = [3, 2, 3];
 console.log(majorityElement(nums)); // 3
 
 module.exports = majorityElement;
